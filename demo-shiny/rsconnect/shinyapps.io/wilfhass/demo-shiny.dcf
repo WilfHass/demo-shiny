@@ -1,0 +1,13 @@
+name: demo-shiny
+title: demo-shiny
+username:
+account: wilfhass
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8302610
+bundleId: 6842237
+url: https://wilfhass.shinyapps.io/demo-shiny/
+when: 1676321017.71555
+lastSyncTime: 1676321017.71558
+asMultiple: FALSE
+asStatic: FALSE
